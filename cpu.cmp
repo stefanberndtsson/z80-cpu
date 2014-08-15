@@ -1,0 +1,45 @@
+Cmp-Mod V01 Created by Cvpcb (2014-07-24 BZR 5024)-product   date = Thu Jul 24 23:04:47 2014
+
+BeginCmp
+TimeStamp = /53CADE9F;
+Reference = C1;
+ValeurCmp = C;
+IdModule  = Capacitors_ThroughHole:Capacitor3MMDiscRM2.5;
+EndCmp
+
+BeginCmp
+TimeStamp = /53C010E2;
+Reference = P1;
+ValeurCmp = CONN_25X2;
+IdModule  = Socket_Strips:Socket_Strip_Straight_2x25;
+EndCmp
+
+BeginCmp
+TimeStamp = /53D18A07;
+Reference = R1;
+ValeurCmp = R;
+IdModule  = Resistors_ThroughHole:Resistor_Horizontal_RM10mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /53D189B4;
+Reference = R2;
+ValeurCmp = R;
+IdModule  = Resistors_ThroughHole:Resistor_Horizontal_RM10mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /53D18C4E;
+Reference = R3;
+ValeurCmp = R;
+IdModule  = Resistors_ThroughHole:Resistor_Horizontal_RM10mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /53BEF833;
+Reference = U1;
+ValeurCmp = Z80;
+IdModule  = Sockets_DIP:DIP-40__600_ELL;
+EndCmp
+
+EndListe
